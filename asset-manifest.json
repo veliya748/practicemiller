@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/practicemiller/static/css/main.d1b05096.chunk.css",
+    "main.js": "/practicemiller/static/js/main.3a9821d5.chunk.js",
+    "main.js.map": "/practicemiller/static/js/main.3a9821d5.chunk.js.map",
+    "runtime-main.js": "/practicemiller/static/js/runtime-main.9f991313.js",
+    "runtime-main.js.map": "/practicemiller/static/js/runtime-main.9f991313.js.map",
+    "static/js/2.ea9f93c2.chunk.js": "/practicemiller/static/js/2.ea9f93c2.chunk.js",
+    "static/js/2.ea9f93c2.chunk.js.map": "/practicemiller/static/js/2.ea9f93c2.chunk.js.map",
+    "index.html": "/practicemiller/index.html",
+    "precache-manifest.0d54f1ec5324a01d1fa4105aef3b49af.js": "/practicemiller/precache-manifest.0d54f1ec5324a01d1fa4105aef3b49af.js",
+    "service-worker.js": "/practicemiller/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/practicemiller/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.ea9f93c2.chunk.js.LICENSE": "/practicemiller/static/js/2.ea9f93c2.chunk.js.LICENSE",
+    "static/media/doctor comp.png": "/practicemiller/static/media/doctor comp.657ddffa.png",
+    "static/media/healthcare.png": "/practicemiller/static/media/healthcare.3f35d139.png",
+    "static/media/logo.png": "/practicemiller/static/media/logo.69272775.png",
+    "static/media/map.PNG": "/practicemiller/static/media/map.b34c85bd.PNG",
+    "static/media/neutral ai profile.png": "/practicemiller/static/media/neutral ai profile.6bcceed5.png",
+    "static/media/office.jpg": "/practicemiller/static/media/office.9c84c66c.jpg",
+    "static/media/profile doc.png": "/practicemiller/static/media/profile doc.de578f1b.png",
+    "static/media/welcome.jpg": "/practicemiller/static/media/welcome.7f3158c1.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9f991313.js",
+    "static/js/2.ea9f93c2.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.3a9821d5.chunk.js"
+  ]
+}
